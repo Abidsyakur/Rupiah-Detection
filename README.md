@@ -1,4 +1,4 @@
-# Deteksi-Uang-Rupiah
-Mendeteksi Uang kertas dalam satuan rupiah 
+# Rupiah Detection
+Detect banknotes in rupiah 
 
-link : deteksiuangrupiah.000webhostapp.com
+link : https://rupiah-detection.abidsyakur73-bo.repl.co/
